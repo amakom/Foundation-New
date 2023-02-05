@@ -1132,12 +1132,13 @@ textarea.form-control {
   z-index: 1010;
   color: var(--black-90);
   transition: all 0.3s ease;
+  opacity: 0.5;
 }
 
-/*.gallery-popup .gp-prev:hover,
+.gallery-popup .gp-prev:hover,
 .gallery-popup .gp-next:hover{
   opacity: 1;
-}*/
+}
 
 .gallery-popup .gp-prev i,
 .gallery-popup .gp-next i{
